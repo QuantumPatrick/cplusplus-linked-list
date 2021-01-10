@@ -1,7 +1,9 @@
 # cplusplus-linked-list
 
 ## Problem
-This project was coded for academic purposes. It is a singly linked list implementation for the C++ language. It was designed with the idea of using arbitrary datatypes in mind.
+This project was coded for academic purposes. It is a singly linked list implementation for the C++ language. It was designed with the idea of using arbitrary datatypes in mind. 
+
+A test function is being developed. Presently, it is simply run from the main function of the "main.cpp" file. Once complete, it will be a separate file which runs code from the "main.cpp" file.
 
 ## Functionality
 Two objects are used in this implementation. They are the List object, and the Node object. The Node object acts as a container for a single piece of data with an arbitrary data type. The List object acts as a container for an arbitrary number of Node objects, creating the singly linked list. All functions below are member functions of a the List object.
